@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto20\bin\Debug\proyecto20.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto20\bin\Debug\proyecto20.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto20\bin\Debug\proyecto20.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto20\obj\Debug\proyecto20.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto20\obj\Debug\proyecto20.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto20\obj\Debug\proyecto20.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto20\obj\Debug\proyecto20.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto20\obj\Debug\proyecto20.exe.config

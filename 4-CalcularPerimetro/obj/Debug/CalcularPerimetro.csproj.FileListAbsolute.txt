@@ -1,0 +1,7 @@
+C:\Mac\Home\Documents\Practicas c#\CalcularPerimetro\bin\Debug\CalcularPerimetro.exe.config
+C:\Mac\Home\Documents\Practicas c#\CalcularPerimetro\bin\Debug\CalcularPerimetro.exe
+C:\Mac\Home\Documents\Practicas c#\CalcularPerimetro\bin\Debug\CalcularPerimetro.pdb
+C:\Mac\Home\Documents\Practicas c#\CalcularPerimetro\obj\Debug\CalcularPerimetro.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\CalcularPerimetro\obj\Debug\CalcularPerimetro.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\CalcularPerimetro\obj\Debug\CalcularPerimetro.exe
+C:\Mac\Home\Documents\Practicas c#\CalcularPerimetro\obj\Debug\CalcularPerimetro.pdb

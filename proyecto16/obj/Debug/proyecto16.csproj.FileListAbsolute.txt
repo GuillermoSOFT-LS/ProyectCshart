@@ -1,0 +1,7 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto16\bin\Debug\proyecto16.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto16\bin\Debug\proyecto16.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto16\bin\Debug\proyecto16.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto16\obj\Debug\proyecto16.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto16\obj\Debug\proyecto16.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto16\obj\Debug\proyecto16.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto16\obj\Debug\proyecto16.pdb

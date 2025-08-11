@@ -1,0 +1,7 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto34\bin\Debug\proyecto34.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto34\bin\Debug\proyecto34.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto34\bin\Debug\proyecto34.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto34\obj\Debug\proyecto34.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto34\obj\Debug\proyecto34.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto34\obj\Debug\proyecto34.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto34\obj\Debug\proyecto34.pdb

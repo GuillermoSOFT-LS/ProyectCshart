@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\CalcularSuperficie\bin\Debug\CalcularSuperficie.exe.config
+C:\Mac\Home\Documents\Practicas c#\CalcularSuperficie\bin\Debug\CalcularSuperficie.exe
+C:\Mac\Home\Documents\Practicas c#\CalcularSuperficie\bin\Debug\CalcularSuperficie.pdb
+C:\Mac\Home\Documents\Practicas c#\CalcularSuperficie\obj\Debug\CalcularSuperficie.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\CalcularSuperficie\obj\Debug\CalcularSuperficie.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\CalcularSuperficie\obj\Debug\CalcularSuperficie.exe
+C:\Mac\Home\Documents\Practicas c#\CalcularSuperficie\obj\Debug\CalcularSuperficie.pdb
+C:\Mac\Home\Documents\Practicas c#\CalcularSuperficie\obj\Debug\CalcularSuperficie.exe.config

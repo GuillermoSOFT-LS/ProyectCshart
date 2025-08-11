@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto15\bin\Debug\proyecto15.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto15\bin\Debug\proyecto15.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto15\bin\Debug\proyecto15.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto15\obj\Debug\proyecto15.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto15\obj\Debug\proyecto15.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto15\obj\Debug\proyecto15.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto15\obj\Debug\proyecto15.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto15\obj\Debug\proyecto15.exe.config

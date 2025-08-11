@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto70\bin\Debug\proyecto70.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto70\bin\Debug\proyecto70.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto70\bin\Debug\proyecto70.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto70\obj\Debug\proyecto70.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto70\obj\Debug\proyecto70.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto70\obj\Debug\proyecto70.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto70\obj\Debug\proyecto70.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto70\obj\Debug\proyecto70.exe.config

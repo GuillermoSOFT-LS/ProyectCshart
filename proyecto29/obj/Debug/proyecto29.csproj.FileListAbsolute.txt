@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto29\bin\Debug\proyecto29.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto29\bin\Debug\proyecto29.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto29\bin\Debug\proyecto29.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto29\obj\Debug\proyecto29.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto29\obj\Debug\proyecto29.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto29\obj\Debug\proyecto29.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto29\obj\Debug\proyecto29.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto29\obj\Debug\proyecto29.exe.config

@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\EstructuraCondicional\bin\Debug\EstructuraCondicional.exe.config
+C:\Mac\Home\Documents\Practicas c#\EstructuraCondicional\bin\Debug\EstructuraCondicional.exe
+C:\Mac\Home\Documents\Practicas c#\EstructuraCondicional\bin\Debug\EstructuraCondicional.pdb
+C:\Mac\Home\Documents\Practicas c#\EstructuraCondicional\obj\Debug\EstructuraCondicional.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\EstructuraCondicional\obj\Debug\EstructuraCondicional.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\EstructuraCondicional\obj\Debug\EstructuraCondicional.exe
+C:\Mac\Home\Documents\Practicas c#\EstructuraCondicional\obj\Debug\EstructuraCondicional.pdb
+C:\Mac\Home\Documents\Practicas c#\EstructuraCondicional\obj\Debug\EstructuraCondicional.exe.config

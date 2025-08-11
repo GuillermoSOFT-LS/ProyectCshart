@@ -1,0 +1,8 @@
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto46\bin\Debug\proyecto46.exe.config
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto46\bin\Debug\proyecto46.exe
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto46\bin\Debug\proyecto46.pdb
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto46\obj\Debug\proyecto46.csproj.AssemblyReference.cache
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto46\obj\Debug\proyecto46.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto46\obj\Debug\proyecto46.exe
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto46\obj\Debug\proyecto46.pdb
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto46\obj\Debug\proyecto46.exe.config

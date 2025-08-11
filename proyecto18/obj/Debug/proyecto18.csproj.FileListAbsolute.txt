@@ -1,0 +1,7 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto18\bin\Debug\proyecto18.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto18\bin\Debug\proyecto18.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto18\bin\Debug\proyecto18.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto18\obj\Debug\proyecto18.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto18\obj\Debug\proyecto18.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto18\obj\Debug\proyecto18.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto18\obj\Debug\proyecto18.pdb

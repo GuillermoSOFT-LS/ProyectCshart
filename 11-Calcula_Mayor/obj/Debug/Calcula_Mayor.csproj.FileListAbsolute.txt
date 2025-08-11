@@ -1,0 +1,2 @@
+C:\Mac\Home\Documents\Practicas c#\11-Calcula_Mayor\obj\Debug\Calcula_Mayor.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\11-Calcula_Mayor\obj\Debug\Calcula_Mayor.csproj.CoreCompileInputs.cache

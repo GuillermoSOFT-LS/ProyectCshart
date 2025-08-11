@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\AbonoProduct\bin\Debug\AbonoProduct.exe.config
+C:\Mac\Home\Documents\Practicas c#\AbonoProduct\bin\Debug\AbonoProduct.exe
+C:\Mac\Home\Documents\Practicas c#\AbonoProduct\bin\Debug\AbonoProduct.pdb
+C:\Mac\Home\Documents\Practicas c#\AbonoProduct\obj\Debug\AbonoProduct.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\AbonoProduct\obj\Debug\AbonoProduct.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\AbonoProduct\obj\Debug\AbonoProduct.exe
+C:\Mac\Home\Documents\Practicas c#\AbonoProduct\obj\Debug\AbonoProduct.pdb
+C:\Mac\Home\Documents\Practicas c#\AbonoProduct\obj\Debug\AbonoProduct.exe.config

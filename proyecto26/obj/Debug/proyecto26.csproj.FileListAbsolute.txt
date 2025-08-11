@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto26\bin\Debug\proyecto26.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto26\bin\Debug\proyecto26.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto26\bin\Debug\proyecto26.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto26\obj\Debug\proyecto26.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto26\obj\Debug\proyecto26.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto26\obj\Debug\proyecto26.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto26\obj\Debug\proyecto26.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto26\obj\Debug\proyecto26.exe.config

@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto22\bin\Debug\proyecto22.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto22\bin\Debug\proyecto22.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto22\bin\Debug\proyecto22.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto22\obj\Debug\proyecto22.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto22\obj\Debug\proyecto22.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto22\obj\Debug\proyecto22.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto22\obj\Debug\proyecto22.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto22\obj\Debug\proyecto22.exe.config

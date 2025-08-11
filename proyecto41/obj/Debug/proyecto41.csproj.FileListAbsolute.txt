@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto41\bin\Debug\proyecto41.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto41\bin\Debug\proyecto41.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto41\bin\Debug\proyecto41.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto41\obj\Debug\proyecto41.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto41\obj\Debug\proyecto41.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto41\obj\Debug\proyecto41.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto41\obj\Debug\proyecto41.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto41\obj\Debug\proyecto41.exe.config

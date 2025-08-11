@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto33\bin\Debug\proyecto33.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto33\bin\Debug\proyecto33.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto33\bin\Debug\proyecto33.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto33\obj\Debug\proyecto33.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto33\obj\Debug\proyecto33.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto33\obj\Debug\proyecto33.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto33\obj\Debug\proyecto33.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto33\obj\Debug\proyecto33.exe.config

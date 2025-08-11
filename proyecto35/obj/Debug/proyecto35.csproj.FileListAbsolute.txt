@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto35\bin\Debug\proyecto35.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto35\bin\Debug\proyecto35.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto35\bin\Debug\proyecto35.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto35\obj\Debug\proyecto35.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto35\obj\Debug\proyecto35.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto35\obj\Debug\proyecto35.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto35\obj\Debug\proyecto35.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto35\obj\Debug\proyecto35.exe.config

@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto28\bin\Debug\proyecto28.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto28\bin\Debug\proyecto28.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto28\bin\Debug\proyecto28.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto28\obj\Debug\proyecto28.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto28\obj\Debug\proyecto28.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto28\obj\Debug\proyecto28.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto28\obj\Debug\proyecto28.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto28\obj\Debug\proyecto28.exe.config

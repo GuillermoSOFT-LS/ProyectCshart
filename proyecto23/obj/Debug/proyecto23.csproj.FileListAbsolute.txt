@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto23\bin\Debug\proyecto23.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto23\bin\Debug\proyecto23.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto23\bin\Debug\proyecto23.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto23\obj\Debug\proyecto23.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto23\obj\Debug\proyecto23.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto23\obj\Debug\proyecto23.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto23\obj\Debug\proyecto23.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto23\obj\Debug\proyecto23.exe.config

@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\SumaAndProductFourNumeric\bin\Debug\SumaAndProductFourNumeric.exe.config
+C:\Mac\Home\Documents\Practicas c#\SumaAndProductFourNumeric\bin\Debug\SumaAndProductFourNumeric.exe
+C:\Mac\Home\Documents\Practicas c#\SumaAndProductFourNumeric\bin\Debug\SumaAndProductFourNumeric.pdb
+C:\Mac\Home\Documents\Practicas c#\SumaAndProductFourNumeric\obj\Debug\SumaAndProductFourNumeric.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\SumaAndProductFourNumeric\obj\Debug\SumaAndProductFourNumeric.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\SumaAndProductFourNumeric\obj\Debug\SumaAndProductFourNumeric.exe
+C:\Mac\Home\Documents\Practicas c#\SumaAndProductFourNumeric\obj\Debug\SumaAndProductFourNumeric.pdb
+C:\Mac\Home\Documents\Practicas c#\SumaAndProductFourNumeric\obj\Debug\SumaAndProductFourNumeric.exe.config

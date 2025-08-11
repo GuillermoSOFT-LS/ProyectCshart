@@ -1,0 +1,7 @@
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto51\bin\Debug\proyecto51.exe.config
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto51\bin\Debug\proyecto51.exe
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto51\bin\Debug\proyecto51.pdb
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto51\obj\Debug\proyecto51.csproj.AssemblyReference.cache
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto51\obj\Debug\proyecto51.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto51\obj\Debug\proyecto51.exe
+C:\Users\UserGPC\OneDrive\Escritorio\jercicios c#\proyecto51\obj\Debug\proyecto51.pdb

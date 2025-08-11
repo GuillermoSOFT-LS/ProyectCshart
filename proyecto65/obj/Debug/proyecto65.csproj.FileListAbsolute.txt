@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto65\bin\Debug\proyecto65.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto65\bin\Debug\proyecto65.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto65\bin\Debug\proyecto65.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto65\obj\Debug\proyecto65.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto65\obj\Debug\proyecto65.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto65\obj\Debug\proyecto65.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto65\obj\Debug\proyecto65.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto65\obj\Debug\proyecto65.exe.config

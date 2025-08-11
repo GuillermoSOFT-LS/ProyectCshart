@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\CalcularSuma-Promedio\bin\Debug\CalcularSuma-Promedio.exe.config
+C:\Mac\Home\Documents\Practicas c#\CalcularSuma-Promedio\bin\Debug\CalcularSuma-Promedio.exe
+C:\Mac\Home\Documents\Practicas c#\CalcularSuma-Promedio\bin\Debug\CalcularSuma-Promedio.pdb
+C:\Mac\Home\Documents\Practicas c#\CalcularSuma-Promedio\obj\Debug\CalcularSuma-Promedio.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\CalcularSuma-Promedio\obj\Debug\CalcularSuma-Promedio.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\CalcularSuma-Promedio\obj\Debug\CalcularSuma-Promedio.exe
+C:\Mac\Home\Documents\Practicas c#\CalcularSuma-Promedio\obj\Debug\CalcularSuma-Promedio.pdb
+C:\Mac\Home\Documents\Practicas c#\CalcularSuma-Promedio\obj\Debug\CalcularSuma-Promedio.exe.config

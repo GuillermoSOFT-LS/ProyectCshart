@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto44\bin\Debug\proyecto44.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto44\bin\Debug\proyecto44.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto44\bin\Debug\proyecto44.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto44\obj\Debug\proyecto44.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto44\obj\Debug\proyecto44.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto44\obj\Debug\proyecto44.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto44\obj\Debug\proyecto44.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto44\obj\Debug\proyecto44.exe.config

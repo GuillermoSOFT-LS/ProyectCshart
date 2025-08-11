@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto37\bin\Debug\proyecto37.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto37\bin\Debug\proyecto37.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto37\bin\Debug\proyecto37.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto37\obj\Debug\proyecto37.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto37\obj\Debug\proyecto37.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto37\obj\Debug\proyecto37.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto37\obj\Debug\proyecto37.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto37\obj\Debug\proyecto37.exe.config

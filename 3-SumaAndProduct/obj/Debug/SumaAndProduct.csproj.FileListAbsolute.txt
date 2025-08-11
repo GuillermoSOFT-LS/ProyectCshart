@@ -1,0 +1,7 @@
+C:\Mac\Home\Documents\Practicas c#\SumaAndProduct\bin\Debug\SumaAndProduct.exe.config
+C:\Mac\Home\Documents\Practicas c#\SumaAndProduct\bin\Debug\SumaAndProduct.exe
+C:\Mac\Home\Documents\Practicas c#\SumaAndProduct\bin\Debug\SumaAndProduct.pdb
+C:\Mac\Home\Documents\Practicas c#\SumaAndProduct\obj\Debug\SumaAndProduct.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\SumaAndProduct\obj\Debug\SumaAndProduct.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\SumaAndProduct\obj\Debug\SumaAndProduct.exe
+C:\Mac\Home\Documents\Practicas c#\SumaAndProduct\obj\Debug\SumaAndProduct.pdb

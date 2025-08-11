@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto21\bin\Debug\proyecto21.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto21\bin\Debug\proyecto21.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto21\bin\Debug\proyecto21.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto21\obj\Debug\proyecto21.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto21\obj\Debug\proyecto21.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto21\obj\Debug\proyecto21.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto21\obj\Debug\proyecto21.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto21\obj\Debug\proyecto21.exe.config

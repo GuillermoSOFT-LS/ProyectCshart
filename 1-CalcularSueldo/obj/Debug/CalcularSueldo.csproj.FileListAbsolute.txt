@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\CalcularSueldo\bin\Debug\CalcularSueldo.exe.config
+C:\Mac\Home\Documents\Practicas c#\CalcularSueldo\bin\Debug\CalcularSueldo.exe
+C:\Mac\Home\Documents\Practicas c#\CalcularSueldo\bin\Debug\CalcularSueldo.pdb
+C:\Mac\Home\Documents\Practicas c#\CalcularSueldo\obj\Debug\CalcularSueldo.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\CalcularSueldo\obj\Debug\CalcularSueldo.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\CalcularSueldo\obj\Debug\CalcularSueldo.exe
+C:\Mac\Home\Documents\Practicas c#\CalcularSueldo\obj\Debug\CalcularSueldo.pdb
+C:\Mac\Home\Documents\Practicas c#\CalcularSueldo\obj\Debug\CalcularSueldo.exe.config

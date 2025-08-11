@@ -1,0 +1,7 @@
+C:\Mac\Home\Documents\Practicas c#\Proyecto11\obj\Debug\Proyecto11.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\Proyecto11\obj\Debug\Proyecto11.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\Proyecto11\bin\Debug\Proyecto11.exe.config
+C:\Mac\Home\Documents\Practicas c#\Proyecto11\bin\Debug\Proyecto11.exe
+C:\Mac\Home\Documents\Practicas c#\Proyecto11\bin\Debug\Proyecto11.pdb
+C:\Mac\Home\Documents\Practicas c#\Proyecto11\obj\Debug\Proyecto11.exe
+C:\Mac\Home\Documents\Practicas c#\Proyecto11\obj\Debug\Proyecto11.pdb
