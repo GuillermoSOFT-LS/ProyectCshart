@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto82\bin\Debug\proyecto82.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto82\bin\Debug\proyecto82.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto82\bin\Debug\proyecto82.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto82\obj\Debug\proyecto82.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto82\obj\Debug\proyecto82.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto82\obj\Debug\proyecto82.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto82\obj\Debug\proyecto82.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto82\obj\Debug\proyecto82.exe.config
