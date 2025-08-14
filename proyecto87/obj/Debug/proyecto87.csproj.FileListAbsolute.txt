@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto87\obj\Debug\proyecto87.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto87\obj\Debug\proyecto87.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto87\bin\Debug\proyecto87.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto87\bin\Debug\proyecto87.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto87\bin\Debug\proyecto87.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto87\obj\Debug\proyecto87.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto87\obj\Debug\proyecto87.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto87\obj\Debug\proyecto87.exe.config

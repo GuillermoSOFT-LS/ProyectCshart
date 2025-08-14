@@ -42,7 +42,6 @@ namespace proyecto85
             {
                 for (int c = 0; c < matriz.GetLength(1); c++)
                 {
-
                     Console.Write(matriz[f, c] + " ");
                 }
                 Console.WriteLine();
@@ -53,34 +52,17 @@ namespace proyecto85
 
         private void Intercambiar()
         {
-            int[] fila1;
-            fila1 = new int[matriz.GetLength(1)];
-            int[] fila2;
-            fila2 = new int[matriz.GetLength(1)];
-
-            for (int f = 0; f < matriz.GetLength(0); f++)
+            for (int f = 0; f <matriz.GetLength(0); f++)
             {
                 for (int c = 0; c < matriz.GetLength(1); c++)
-                {
-                    if (f == 0) 
-                    {
-                        fila1[c] = matriz[f, c];
-                    }
-                    if (f == 1)
-                    {
-                        fila2[c] = matriz[f, c];
-                    }
-                }
-            }
+                 {
+                    int aux = matriz[f, c];
+                    matriz[f, c] = matriz[f+1, c];
+                    matriz[f,c] = aux;
 
-            for (int f = 0; f < matriz.GetLength(0); f++)
-            {
-                for (int c = 0; c < matriz.GetLength(1); c++)
-                {
-                   if(f==0) matriz[f,c] = fila1[c];
-                   if(f==1) matriz[f,c] = fila2[c];
-                }
+                 }
             }
+                
             ImprimirNuevaMatriz();
 
         }
@@ -91,7 +73,6 @@ namespace proyecto85
             {
                 for (int c = 0; c < matriz.GetLength(1); c++)
                 {
-
                     Console.Write(matriz[f, c] + " ");
                 }
                 Console.WriteLine();

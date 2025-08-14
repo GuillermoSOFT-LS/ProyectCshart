@@ -1,0 +1,8 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto88\bin\Debug\proyecto88.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto88\bin\Debug\proyecto88.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto88\bin\Debug\proyecto88.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto88\obj\Debug\proyecto88.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto88\obj\Debug\proyecto88.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto88\obj\Debug\proyecto88.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto88\obj\Debug\proyecto88.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto88\obj\Debug\proyecto88.exe.config

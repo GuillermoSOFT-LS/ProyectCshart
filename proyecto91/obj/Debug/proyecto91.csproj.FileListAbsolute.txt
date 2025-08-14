@@ -1,0 +1,7 @@
+C:\Mac\Home\Documents\Practicas c#\proyecto91\bin\Debug\proyecto91.exe.config
+C:\Mac\Home\Documents\Practicas c#\proyecto91\bin\Debug\proyecto91.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto91\bin\Debug\proyecto91.pdb
+C:\Mac\Home\Documents\Practicas c#\proyecto91\obj\Debug\proyecto91.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto91\obj\Debug\proyecto91.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Practicas c#\proyecto91\obj\Debug\proyecto91.exe
+C:\Mac\Home\Documents\Practicas c#\proyecto91\obj\Debug\proyecto91.pdb
